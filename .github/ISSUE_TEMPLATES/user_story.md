@@ -12,14 +12,21 @@ assignees:
 
 OR use a job story
 
+> As a {persona}
 > When {situation}
 > I want to {motivation}
 > so I can {outcome}
 
 ---
 
+## Description
+
+_Context behind the issue. Why is it needed?_
+
 ## Acceptance criteria
 
-- [ ] A checklist
+_What needs to happen for this feature to work?_
 
-## Relevant links
+- [ ] Add a checklist
+
+## Notes and links
